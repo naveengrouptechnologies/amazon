@@ -1,2 +1,6 @@
+
 i am in master branch..
+
+hello i am in stage branch...
+
 hello this file contains deployment scripts...
